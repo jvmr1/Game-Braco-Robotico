@@ -1,5 +1,3 @@
-//g++ jogo.c -o teste -lGL -lGLU -lglut && ./teste
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
